@@ -9,7 +9,7 @@ price of oil, gold, and silver using the metalpriceshub API.
 
 - Install [Node LTS](https://nodejs.org)
 - Clone this repository
-- `cd prices`
+- `cd task_project`
 - `npm install` to install the application's dependencies
 - `npm start` to start the application
 
